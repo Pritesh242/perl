@@ -7,8 +7,7 @@ platforms:
 - name: ubuntu-12.04
   run_list:
     - recipe[apt]
-- name: ubuntu-10.04
-  run_list:
+- name: ubuntu-10.04Sdasd
     - recipe[apt]
 - name: centos-6.4
 - name: centos-5.9
